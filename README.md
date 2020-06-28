@@ -1,2 +1,5 @@
-# my-C-C-code
-我学习算法的一些基础代码，乱七八糟没有整理2333
+# 🎯 c&cpp programs
+
+- This is a repo for holding some interesting and cute c&cpp programs' source code.
+🎈
+
